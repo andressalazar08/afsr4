@@ -1,0 +1,70 @@
+body {
+  background-color: #348ceb;
+  color: #d8d8d8;
+  margin: 0;
+  padding: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-size: 21px;
+  padding-left: 12px;
+}
+p {
+  font-family: "Open Sans";
+  color:black;
+}
+header{
+    text-align:center;
+    font-size:30px;
+}
+
+
+
+/* Gráficos panel derecho ––––––––––––––––––––––––––––––––––––––––––––––––––*/
+.div-for-charts{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 90%;
+}
+
+/* Controles panel izquierdo ––––––––––––––––––––––––––––––––––––––––––––––––––*/
+.div-user-controls {
+  padding-left: 55px;
+  padding-top: 64px;
+}
+.div-for-dropdown {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color:red;
+  width:90%;
+}
+.div-for-slider {
+  width: 97%;
+  text-align: center;
+}
+
+
+
+
+/* Espacio de trabajo –––––––––––––––––––––––––––––––––––––––––––––––––– */
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+    box-sizing: border-box;
+  }
+  .columns {
+    width: 100%;
+    float: left;
+    box-sizing: border-box;
+  }
+   .primera.columns {
+        width: 30.6666666667%;
+   }
+   .segunda.columns {
+        width: 60.3333333333%;
+   }
+
+
