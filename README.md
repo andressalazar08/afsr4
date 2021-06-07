@@ -15,3 +15,7 @@ Uso de Flask, Html, Css
 
 Modelo de programación lineal
 uso de la librería Pulp
+
+Para ver el live update:
+
+http://donations.pythonanywhere.com/
